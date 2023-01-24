@@ -8,6 +8,6 @@ MVVM based, clean code.
 
 > flutter pub get
 
-For create zoom_viewmodel.g.dart file run the command on terminal
+For create or update of zoom_viewmodel.g.dart file, run the command on terminal
 
 > flutter packages pub run build_runner build
